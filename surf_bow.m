@@ -1,3 +1,4 @@
+% Developed by Vikram Bajaj
 imgSets = imageSet('E:\Face Emotion Recognition\Second Try\JAFFE 4 Emotions\','recursive');
 % { imgSets.Description } % display all labels on one line
 % [imgSets.Count]         % show the corresponding count of images
